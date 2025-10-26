@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Disney Plus
+Exec=/streaming_server/disney_plus/start_disney.sh
+Icon=/streaming_server/disney_plus/disney.ico
+Type=Application
+Terminal=false
